@@ -1,2 +1,2 @@
 # Tarcin
-2d Platform Game
+2D Platform Game
